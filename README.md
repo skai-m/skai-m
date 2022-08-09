@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @skai-m
-- 👀 I’m interested in data and application development
-- 🌱 I’m currently learning R and SQL
-- 💞️ I’m *not* looking to collaborate at the moment, but maybe in the future!
+- 👋 Hi, my name is Safiyyah!
+- 👀 I’m interested in web design, data analytics, and application development for mobile devices and the web.
+- 🌱 I’m currently learning how to turn UX prototypes into inclusive and accessible apps using common development languages such as HTML, Javascript and C#~
 - 📫 How to reach me ... I am on [LinkedIn](https://linkedin.com/in/safiyyah-muhammad-135476174 "LinkedIn") and Kaggle!
 
 <!---
